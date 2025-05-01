@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "L293D")(type "KiCad")(uri "${KIPRJMOD}/library/ul_L293D/KiCADv6/2025-04-30_15-28-47.kicad_sym")(options "")(descr ""))
+)
